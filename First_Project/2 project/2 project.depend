@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675432572 source:c:\users\hp\first_project\2 project\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<cmath>
+
